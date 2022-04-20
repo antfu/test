@@ -1,0 +1,3 @@
+upstreams:
+  utils: antfu/utils
+  foobar: antfu/test-b
